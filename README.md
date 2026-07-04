@@ -39,7 +39,7 @@ project/
 
 ## ▶️ How to Run
 
-1. Clone the repository:git clone https://github.com/Samruddhi-1605/network-simulator.git
+1. Clone the repository:git clone https://github.com/Samruddhi-1605/Network-Troubleshooting-Simulator.git
 
 2. Navigate to project folder:
 
